@@ -15,6 +15,9 @@ Things you may want to cover:
 
 * Database initialization
 
+* How to run the server
+  rails server -p 3001&
+
 * How to run the test suite
 
 * Services (job queues, cache servers, search engines, etc.)
